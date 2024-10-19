@@ -1,0 +1,8 @@
+2. ALGORITMA MENGHITUNG LUAS LINGKARAN
+   • INISIASI
+     > Masukan nilai jari-jari lingkaran
+   • PROSES
+     > Lihat apakah jari-jari kelipatan 7. Jika iya, maka phi = 22/7. Jika tidak, maka phi = 3,14
+     > Hitung luas Lingkaran rumus: L = π x r²
+   • OUTPUT
+     > Tampilkan hasil perhitungan luas lingkaran 
